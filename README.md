@@ -1,3 +1,4 @@
+# Important! A NVIDIA RTX GPU with at least 8GB of VRAM is required
 # Convert any Corpus of Text into a *Graph of Knowledge*
 
 ![Knowledge Graph Banner](./assets/KG_banner.png)
